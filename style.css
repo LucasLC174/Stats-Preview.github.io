@@ -91,7 +91,7 @@ h1 span
 {
     display: flex;
     width: 100%;
-    background-image: url('images/image-header-desktop.jpg');
+    background-image: url(image-header-desktop.jpg);
     height: 420px;
     background-size: cover;
     border-top-right-radius: 8px;
