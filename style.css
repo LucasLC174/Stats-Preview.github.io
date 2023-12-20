@@ -115,14 +115,13 @@ h1 span
         justify-content: center;
         align-items: center;
         text-align: center;
+        border-radius: 8px;
+
     }
-}
-@media (max-width:375px ) {
     .container-stats
     {
         flex-direction: column;
         gap: 30px;
     }
-    
-}
 
+}
