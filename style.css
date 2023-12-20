@@ -102,12 +102,6 @@ h1 span
     height: 100%;
     width: 100%;
 }
-#photo::before
-{
-    content: normal;
-    color: var(--accent-color);
-}
-
 @media (max-width:375px ) { 
     #photo
     {
